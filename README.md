@@ -7,20 +7,8 @@ A Passionate Web Developer from Pakistan
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me: **jiyashaikh362@email.com**
+🛠️ 
 
-🌐 Connect with me
-Linkdln
-Facebook
-
-🛠️ Languages and Tools
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Git
-- MongoDB
-  
 📊 GitHub Stats
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362&show_icons=true&theme=radical)
 
