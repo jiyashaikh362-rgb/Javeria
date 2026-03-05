@@ -1,36 +1,84 @@
-Hi 👋, I'm Javeria Sheikh
-A Passionate Web Developer from Pakistan
+<h1 align="center">Hi 👋, I'm Jiya Shaikh</h1>
 
-🚀 About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **React / Node.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **jiyashaikh362@email.com**
-🛠️ 
+<h3 align="center">Frontend Developer | React Learner | Web Developer</h3>
 
-📊 GitHub Stats
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362&show_icons=true&theme=radical)
-
-🔥 GitHub Streak
-[GitHub Streak](https://streak-stats.demolab.com/?user=jiyashaikh362-rgb&theme=radical)
-
-📂 Featured Projects
-- 🚀 **Project 1** –
-- Weather Application
-- A simple weather application that shows real-time weather information for any city.
-It displays temperature, weather conditions, and other details using a weather API.
-
-- 🌐 **Project 2** –
-- Responsive Portfolio Website
-A responsive website designed to work smoothly on all screen sizes including mobile, tablet, and desktop.
-It provides a clean layout and improved user experience using modern web technologies.
-
-- 💡 **Project 3** –
-- React Portfolio SPA
-A modern portfolio website built using React with a single-page application architecture.
-It highlights my projects, skills, and experience with a responsive and interactive design.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;JavaScript+Enthusiast;Building+Responsive+Websites&center=true&width=500&height=45">
+</p>
 
 ---
 
-⭐ From [Javeria](https://github.com/jiyashaikh362-rgb)
+## 👩‍💻 About Me
+
+- 💻 Passionate **Frontend Developer**
+- 🌱 Currently learning **React & Modern JavaScript**
+- 🚀 Love building **responsive web applications**
+- 🎯 Goal: Become a **professional full-stack developer**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🌦 Weather Application  
+Responsive website that shows real-time weather data using API.
+
+🌐 Responsive Website  
+A modern responsive website that works on all screen sizes.
+
+💼 React Portfolio SPA  
+A personal portfolio built with React using SPA architecture.
+
+---
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=jiyashaikh362-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362-rgb&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jiyashaikh362-rgb&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyashaikh362-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jiyashaikh362-rgb&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiyashaikh362-rgb&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: jiyashaikh62@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/jiya-sheikh-237475394 
+
+---
+
+⭐ From **Jiya Shaikh**
