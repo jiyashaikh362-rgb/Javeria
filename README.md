@@ -77,7 +77,7 @@ A personal portfolio built with React using SPA architecture.
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyashaikh362-rgb)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiyashaikh362-rgb&layout=compact&theme=tokyonight)
 
 ---
 
