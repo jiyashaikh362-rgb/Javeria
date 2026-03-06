@@ -83,8 +83,6 @@ A personal portfolio built with React using SPA architecture.
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=jiyashaikh362-rgb)](https://github.com/ryo-ma/github-profile-trophy)
 
 
