@@ -66,8 +66,7 @@ A personal portfolio built with React using SPA architecture.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362-rgb&show_icons=true)
-
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiyashaikh362-rgb&layout=compact&theme=radical
 ---
 
 ## 🔥 GitHub Streak
