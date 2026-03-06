@@ -46,7 +46,7 @@ A personal portfolio built with React using SPA architecture.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362-rgb&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyashaikh362-rgb&show_icons=true)
 
 ---
 
@@ -58,13 +58,13 @@ A personal portfolio built with React using SPA architecture.
 
 ## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyashaikh362-rgb&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyashaikh362-rgb)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jiyashaikh362-rgb&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiyashaikh362-rgb)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
